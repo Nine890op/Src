@@ -1,0 +1,368 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = RichnessSoft.Component
+build_property.RootNamespace = RichnessSoft.Component
+build_property.ProjectDir = D:\Download\Src\RichnessSoft.Component\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Download\Src\RichnessSoft.Component
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcAccBook.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0FjY0Jvb2sucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcAccount.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0FjY291bnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcAccountItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0FjY291bnRJdGVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcAmphur.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0FtcGh1ci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcApproval.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0FwcHJvdmFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcBank.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0JhbmsucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcBankBranch.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0JhbmtCcmFuY2gucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcBook.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0Jvb2sucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcBookBank.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0Jvb2tCYW5rLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcBookItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0Jvb2tJdGVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcBranch.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0JyYW5jaC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcBrand.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0JyYW5kLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcCategory.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0NhdGVnb3J5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcColor.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0NvbG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcCompany.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0NvbXBhbnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcConfirm.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0NvbmZpcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcConfirmItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0NvbmZpcm1JdGVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcCountry.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0NvdW50cnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcCreditTerm.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0NyZWRpdFRlcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcCreditType.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0NyZWRpdFR5cGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcCurrency.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0N1cnJlbmN5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcCustomer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0N1c3RvbWVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcCustomerItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0N1c3RvbWVySXRlbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcDepartment.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0RlcGFydG1lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcDepartmentItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0RlcGFydG1lbnRJdGVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcDepositWithdraw.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0RlcG9zaXRXaXRoZHJhdy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcDescription.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0Rlc2NyaXB0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcDesign.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0Rlc2lnbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcDocType.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0RvY1R5cGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcDocType2.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0RvY1R5cGUyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcDocTypeItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0RvY1R5cGVJdGVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcDxDateEditAutoBind.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0R4RGF0ZUVkaXRBdXRvQmluZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcDxDateEditManualBind.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0R4RGF0ZUVkaXRNYW51YWxCaW5kLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcDxSpinEditAutoBind.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0R4U3BpbkVkaXRBdXRvQmluZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcDxSpinEditManualBind.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0R4U3BpbkVkaXRNYW51YWxCaW5kLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcDxTextBoxAutoBind.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0R4VGV4dEJveEF1dG9CaW5kLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcDxTextBoxManualBind.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0R4VGV4dEJveE1hbnVhbEJpbmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcFormat.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0Zvcm1hdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcGLBookKeeping.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0dMQm9va0tlZXBpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcGLRefCodeSaleItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0dMUmVmQ29kZVNhbGVJdGVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcGrade.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0dyYWRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcIncomeTypeItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0luY29tZVR5cGVJdGVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcInputGroupTextSearch.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY0lucHV0R3JvdXBUZXh0U2VhcmNoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcModel.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY01vZGVsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcPaymentAcPayee.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1BheW1lbnRBY1BheWVlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcPaymentBearer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1BheW1lbnRCZWFyZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcPaymentStat.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1BheW1lbnRTdGF0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcPaymentStep.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1BheW1lbnRTdGVwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcPayType.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1BheVR5cGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcProdType.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1Byb2RUeXBlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1Byb2R1Y3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcProductItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1Byb2R1Y3RJdGVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcProductSet.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1Byb2R1Y3RTZXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcProject.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1Byb2plY3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcProjectItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1Byb2plY3RJdGVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcProvince.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1Byb3ZpbmNlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcRetProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1JldFByb2R1Y3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcSaleHistory.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1NhbGVIaXN0b3J5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcSaleman.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1NhbGVtYW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcSet.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1NldC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcSetItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1NldEl0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcShipping.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1NoaXBwaW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcSize.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1NpemUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcSystem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1N5c3RlbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcSystemItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1N5c3RlbUl0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcTambol.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1RhbWJvbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcTaxDeductionCond.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1RheERlZHVjdGlvbkNvbmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcTaxPayer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1RheFBheWVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcTextBox.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1RleHRCb3gucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcTextNumberic.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1RleHROdW1iZXJpYy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcTypeVat.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1R5cGVWYXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcUm.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1VtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcUmItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1VtSXRlbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcValueAddTax.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1ZhbHVlQWRkVGF4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcValueAddTaxItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1ZhbHVlQWRkVGF4SXRlbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcVAT.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1ZBVC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcVATItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1ZBVEl0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcVendor.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1ZlbmRvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcVendorItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1ZlbmRvckl0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcWarehouse.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1dhcmVob3VzZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcWarehouseItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1dhcmVob3VzZUl0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcWeight.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1dlaWdodC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcWelcome.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1dlbGNvbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Control/RcWithholdingSection.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbFxSY1dpdGhob2xkaW5nU2VjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Modal/RcAttachFile.razor]
+build_metadata.AdditionalFiles.TargetPath = TW9kYWxcUmNBdHRhY2hGaWxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Modal/RcPopupConfirm.razor]
+build_metadata.AdditionalFiles.TargetPath = TW9kYWxcUmNQb3B1cENvbmZpcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/Modal/RcVfieldLot.razor]
+build_metadata.AdditionalFiles.TargetPath = TW9kYWxcUmNWZmllbGRMb3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Component/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,12 @@
+D:\Work2\richnesssoft\RichnessSoft\RichnessSoft.Common\bin\Release\net5.0\RichnessSoft.Common.deps.json
+D:\Work2\richnesssoft\RichnessSoft\RichnessSoft.Common\bin\Release\net5.0\RichnessSoft.Common.dll
+D:\Work2\richnesssoft\RichnessSoft\RichnessSoft.Common\bin\Release\net5.0\ref\RichnessSoft.Common.dll
+D:\Work2\richnesssoft\RichnessSoft\RichnessSoft.Common\bin\Release\net5.0\RichnessSoft.Common.pdb
+D:\Work2\richnesssoft\RichnessSoft\RichnessSoft.Common\obj\Release\net5.0\RichnessSoft.Common.csproj.AssemblyReference.cache
+D:\Work2\richnesssoft\RichnessSoft\RichnessSoft.Common\obj\Release\net5.0\RichnessSoft.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work2\richnesssoft\RichnessSoft\RichnessSoft.Common\obj\Release\net5.0\RichnessSoft.Common.AssemblyInfoInputs.cache
+D:\Work2\richnesssoft\RichnessSoft\RichnessSoft.Common\obj\Release\net5.0\RichnessSoft.Common.AssemblyInfo.cs
+D:\Work2\richnesssoft\RichnessSoft\RichnessSoft.Common\obj\Release\net5.0\RichnessSoft.Common.csproj.CoreCompileInputs.cache
+D:\Work2\richnesssoft\RichnessSoft\RichnessSoft.Common\obj\Release\net5.0\RichnessSoft.Common.dll
+D:\Work2\richnesssoft\RichnessSoft\RichnessSoft.Common\obj\Release\net5.0\ref\RichnessSoft.Common.dll
+D:\Work2\richnesssoft\RichnessSoft\RichnessSoft.Common\obj\Release\net5.0\RichnessSoft.Common.pdb

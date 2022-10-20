@@ -1,0 +1,541 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Download\\Src\\RichnessSoft.Web\\RichnessSoft.Web.csproj": {}
+  },
+  "projects": {
+    "D:\\Download\\Src\\RichnessSoft.Common\\RichnessSoft.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Download\\Src\\RichnessSoft.Common\\RichnessSoft.Common.csproj",
+        "projectName": "RichnessSoft.Common",
+        "projectPath": "D:\\Download\\Src\\RichnessSoft.Common\\RichnessSoft.Common.csproj",
+        "packagesPath": "C:\\Users\\Nine\\.nuget\\packages\\",
+        "outputPath": "D:\\Download\\Src\\RichnessSoft.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Download\\Src\\NuGet.Config",
+          "C:\\Users\\Nine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/uxzDDCdY5kmrAKAcbcznrceKKakEo8Pb1bDEhz3kqzVLVK6zbf/api": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BlazorInputFile": {
+              "target": "Package",
+              "version": "[0.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Build": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Download\\Src\\RichnessSoft.Component\\RichnessSoft.Component.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Download\\Src\\RichnessSoft.Component\\RichnessSoft.Component.csproj",
+        "projectName": "RichnessSoft.Component",
+        "projectPath": "D:\\Download\\Src\\RichnessSoft.Component\\RichnessSoft.Component.csproj",
+        "packagesPath": "C:\\Users\\Nine\\.nuget\\packages\\",
+        "outputPath": "D:\\Download\\Src\\RichnessSoft.Component\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Download\\Src\\NuGet.Config",
+          "C:\\Users\\Nine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/uxzDDCdY5kmrAKAcbcznrceKKakEo8Pb1bDEhz3kqzVLVK6zbf/api": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Download\\Src\\RichnessSoft.Common\\RichnessSoft.Common.csproj": {
+                "projectPath": "D:\\Download\\Src\\RichnessSoft.Common\\RichnessSoft.Common.csproj"
+              },
+              "D:\\Download\\Src\\RichnessSoft.Entity\\RichnessSoft.Entity.csproj": {
+                "projectPath": "D:\\Download\\Src\\RichnessSoft.Entity\\RichnessSoft.Entity.csproj"
+              },
+              "D:\\Download\\Src\\RichnessSoft.Service\\RichnessSoft.Service.csproj": {
+                "projectPath": "D:\\Download\\Src\\RichnessSoft.Service\\RichnessSoft.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Blazored.Modal": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "CurrieTechnologies.Razor.SweetAlert2": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "DevExpress.Blazor": {
+              "target": "Package",
+              "version": "[21.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Radzen.Blazor": {
+              "target": "Package",
+              "version": "[3.14.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Download\\Src\\RichnessSoft.Entity\\RichnessSoft.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Download\\Src\\RichnessSoft.Entity\\RichnessSoft.Entity.csproj",
+        "projectName": "RichnessSoft.Entity",
+        "projectPath": "D:\\Download\\Src\\RichnessSoft.Entity\\RichnessSoft.Entity.csproj",
+        "packagesPath": "C:\\Users\\Nine\\.nuget\\packages\\",
+        "outputPath": "D:\\Download\\Src\\RichnessSoft.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Download\\Src\\NuGet.Config",
+          "C:\\Users\\Nine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/uxzDDCdY5kmrAKAcbcznrceKKakEo8Pb1bDEhz3kqzVLVK6zbf/api": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Download\\Src\\RichnessSoft.Common\\RichnessSoft.Common.csproj": {
+                "projectPath": "D:\\Download\\Src\\RichnessSoft.Common\\RichnessSoft.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BlazorInputFile": {
+              "target": "Package",
+              "version": "[0.2.0, )"
+            },
+            "Blazored.FluentValidation": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Microsoft.AspNetCore.Components.DataAnnotations.Validation": {
+              "target": "Package",
+              "version": "[3.2.0-rc1.20223.4, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.Build": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Download\\Src\\RichnessSoft.Service\\RichnessSoft.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Download\\Src\\RichnessSoft.Service\\RichnessSoft.Service.csproj",
+        "projectName": "RichnessSoft.Service",
+        "projectPath": "D:\\Download\\Src\\RichnessSoft.Service\\RichnessSoft.Service.csproj",
+        "packagesPath": "C:\\Users\\Nine\\.nuget\\packages\\",
+        "outputPath": "D:\\Download\\Src\\RichnessSoft.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Download\\Src\\NuGet.Config",
+          "C:\\Users\\Nine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/uxzDDCdY5kmrAKAcbcznrceKKakEo8Pb1bDEhz3kqzVLVK6zbf/api": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Download\\Src\\RichnessSoft.Common\\RichnessSoft.Common.csproj": {
+                "projectPath": "D:\\Download\\Src\\RichnessSoft.Common\\RichnessSoft.Common.csproj"
+              },
+              "D:\\Download\\Src\\RichnessSoft.Entity\\RichnessSoft.Entity.csproj": {
+                "projectPath": "D:\\Download\\Src\\RichnessSoft.Entity\\RichnessSoft.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Data": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Blazored.SessionStorage": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "CurrieTechnologies.Razor.SweetAlert2": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.4, )"
+            },
+            "Hyperion": {
+              "target": "Package",
+              "version": "[0.11.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Download\\Src\\RichnessSoft.Web\\RichnessSoft.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Download\\Src\\RichnessSoft.Web\\RichnessSoft.Web.csproj",
+        "projectName": "RichnessSoft.Web",
+        "projectPath": "D:\\Download\\Src\\RichnessSoft.Web\\RichnessSoft.Web.csproj",
+        "packagesPath": "C:\\Users\\Nine\\.nuget\\packages\\",
+        "outputPath": "D:\\Download\\Src\\RichnessSoft.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Download\\Src\\NuGet.Config",
+          "C:\\Users\\Nine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/uxzDDCdY5kmrAKAcbcznrceKKakEo8Pb1bDEhz3kqzVLVK6zbf/api": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Download\\Src\\RichnessSoft.Common\\RichnessSoft.Common.csproj": {
+                "projectPath": "D:\\Download\\Src\\RichnessSoft.Common\\RichnessSoft.Common.csproj"
+              },
+              "D:\\Download\\Src\\RichnessSoft.Component\\RichnessSoft.Component.csproj": {
+                "projectPath": "D:\\Download\\Src\\RichnessSoft.Component\\RichnessSoft.Component.csproj"
+              },
+              "D:\\Download\\Src\\RichnessSoft.Entity\\RichnessSoft.Entity.csproj": {
+                "projectPath": "D:\\Download\\Src\\RichnessSoft.Entity\\RichnessSoft.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BlazorInputFile": {
+              "target": "Package",
+              "version": "[0.2.0, )"
+            },
+            "Blazored.LocalStorage": {
+              "target": "Package",
+              "version": "[4.1.5, )"
+            },
+            "Blazored.Modal": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Blazored.SessionStorage": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "CurrieTechnologies.Razor.SweetAlert2": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "DevExpress.Blazor": {
+              "target": "Package",
+              "version": "[21.2.5, )"
+            },
+            "Microsoft.AspNetCore.Components.DataAnnotations.Validation": {
+              "target": "Package",
+              "version": "[3.2.0-rc1.20223.4, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.Build": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Radzen.Blazor": {
+              "target": "Package",
+              "version": "[3.14.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7c63795e-723b-4f97-a166-dbfd44112b72": {
+      "ProjectGuid": "7c63795e-723b-4f97-a166-dbfd44112b72",
+      "DisplayName": "BlazorApp1",
+      "ColorIndex": 0
+    },
+    "a6820758-fd84-4b3d-a3e6-cbe1db5d137b": {
+      "ProjectGuid": "a6820758-fd84-4b3d-a3e6-cbe1db5d137b",
+      "DisplayName": "RichnessSoft.Common",
+      "ColorIndex": 1
+    },
+    "2d77e05e-ffdd-417c-831c-3b706aaadc76": {
+      "ProjectGuid": "2d77e05e-ffdd-417c-831c-3b706aaadc76",
+      "DisplayName": "RichnessSoft.Entity",
+      "ColorIndex": 2
+    },
+    "7abfdd65-6900-4ca5-9922-d2eb324c143d": {
+      "ProjectGuid": "7abfdd65-6900-4ca5-9922-d2eb324c143d",
+      "DisplayName": "RichnessSoft.Data",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ac270aa5-f59d-4bf3-a012-f1ce63144989": {
+      "ProjectGuid": "ac270aa5-f59d-4bf3-a012-f1ce63144989",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 4
+    },
+    "e9b1b49c-0b59-402f-9f3f-f0f7deebe15b": {
+      "ProjectGuid": "e9b1b49c-0b59-402f-9f3f-f0f7deebe15b",
+      "DisplayName": "RichnessSoft.Web",
+      "ColorIndex": 5
+    },
+    "31409f4f-7e43-4603-b591-5f0265dc5268": {
+      "ProjectGuid": "31409f4f-7e43-4603-b591-5f0265dc5268",
+      "DisplayName": "RichnessSoft.Service",
+      "ColorIndex": 6
+    },
+    "58663e88-c5f4-4c11-a37d-16e5164e8d24": {
+      "ProjectGuid": "58663e88-c5f4-4c11-a37d-16e5164e8d24",
+      "DisplayName": "RichnessSoft.Component",
+      "ColorIndex": 7
+    },
+    "86916c43-6039-44a9-84b4-6a2039d70f29": {
+      "ProjectGuid": "86916c43-6039-44a9-84b4-6a2039d70f29",
+      "DisplayName": "RichnessSoft.Service",
+      "ColorIndex": 8
+    },
+    "e323f9e0-443c-4b4f-9a99-0bad98d49d71": {
+      "ProjectGuid": "e323f9e0-443c-4b4f-9a99-0bad98d49d71",
+      "DisplayName": "RichnessSoft.Component",
+      "ColorIndex": 9
+    },
+    "498475c0-b0ee-408f-af0c-52515659cf0b": {
+      "ProjectGuid": "498475c0-b0ee-408f-af0c-52515659cf0b",
+      "DisplayName": "RichnessSoft.Component",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

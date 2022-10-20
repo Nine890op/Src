@@ -1,0 +1,152 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RichnessSoft.Web2
+build_property.RootNamespace = RichnessSoft.Web2
+build_property.ProjectDir = D:\Download\Src\RichnessSoft.Web2\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Download\Src\RichnessSoft.Web2
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Download/Src/RichnessSoft.Web2/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Component/Control/RcBook.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XENvbnRyb2xcUmNCb29rLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Component/Control/RcBranch.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XENvbnRyb2xcUmNCcmFuY2gucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Component/Control/RcUm.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XENvbnRyb2xcUmNVbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/Databases/Products/ProdGrp.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0YWJhc2VzXFByb2R1Y3RzXFByb2RHcnAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/Databases/Products/ProdGrpEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0YWJhc2VzXFByb2R1Y3RzXFByb2RHcnBFZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/Databases/Products/Shelfs.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0YWJhc2VzXFByb2R1Y3RzXFNoZWxmcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/Databases/Products/ShelfsEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0YWJhc2VzXFByb2R1Y3RzXFNoZWxmc0VkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/Databases/Products/Um.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0YWJhc2VzXFByb2R1Y3RzXFVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/Databases/Products/UmEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0YWJhc2VzXFByb2R1Y3RzXFVtRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/Databases/Products/WarehouseEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0YWJhc2VzXFByb2R1Y3RzXFdhcmVob3VzZUVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/Databases/Products/Warehouses.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0YWJhc2VzXFByb2R1Y3RzXFdhcmVob3VzZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/Databases/Products/Weights.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0YWJhc2VzXFByb2R1Y3RzXFdlaWdodHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/Databases/Products/WeightsEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0YWJhc2VzXFByb2R1Y3RzXFdlaWdodHNFZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/Login/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/Menu/SubMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudVxTdWJNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/SO/QT.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU09cUVQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/SO/QTEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU09cUVRFZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/Test/Component.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdFxDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/Test/Test.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdFxUZXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Shared/AppAvatar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFwcEF2YXRhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Shared/AppLogo.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFwcExvZ28ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Shared/AppTitle.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFwcFRpdGxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Shared/NotFoundLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5vdEZvdW5kTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Shared/Spinner.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNwaW5uZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Download/Src/RichnessSoft.Web2/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
